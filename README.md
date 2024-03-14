@@ -1,6 +1,6 @@
 # Gender-Wage-Gap
 
-# Introduction
+## Introduction
 The gender wage gap started in the 1950s and increased over time (Gender Wage Gap, n.d.). The pay gap is due to various factors, including “race and ethnicity, disability, education, and age” (The Simple Truth About the Pay Gap, 2022). While the wage gap narrowed slightly in 2020, women still face more discrimination in the workplace than men. The table below shows data from 2017, where “roughly four-in-ten working women said they experienced gender discrimination at work” (Barroso & Brown, 2022).
 
 *These are the percentages of employed adults who have experienced each of these things at work because of their gender.*
@@ -9,7 +9,7 @@ The gender wage gap started in the 1950s and increased over time (Gender Wage Ga
 Women experience gender discrimination at work at a rate of approximately 42%, whereas men experience only 22%. Earning inequality has been reported as one of the most common forms of discrimination. “One in four employed women said they had earned less than a man doing the same job; just 5% of men said they had earned less than a woman doing the same job” (Barroso & Brown, 2022b).
 
 
-# Purpose of this project + Project Description
+## Purpose of this project + Project Description
 The gender wage gap began in the 1950s and increased over time (Gender Wage Gap, n.d.). Many factors contribute to the pay gap, such as race and ethnicity, disability, education, and age (The Simple Truth About the Pay Gap, 2022). As a result, it’s crucial to check whether there are still differences in men’s and women’s wages.
 
 In this project, I analyzed data to observe significant wage differences between men and women with the similar job-related skills. I then developed a machine learning algorithm (OLS) to predict the wage difference between men and women with the same job-related skills.
